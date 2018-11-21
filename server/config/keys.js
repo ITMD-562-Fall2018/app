@@ -1,5 +1,5 @@
 module.exports = {
   mongoUri:
     process.env.MONGO_URI ||
-    "mongodb://jarronb:password1@ds135003.mlab.com:35003/itmd-562-week9"
+    "mongodb://admin:ITMD562!@ds039027.mlab.com:39027/itmd565fall2018"
 };
