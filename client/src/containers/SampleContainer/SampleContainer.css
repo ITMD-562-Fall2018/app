@@ -1,0 +1,11 @@
+.SampleContainer {
+  height: 95vh;
+  margin: 5px;
+  background-color: #bdbdbd42;
+  border-radius: 25px;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.2),
+    -5px -5px 10px rgba(0, 0, 0, 0.2);
+  box-sizing: border-box;
+
+  text-align: center;
+}
