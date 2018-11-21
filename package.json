@@ -1,0 +1,19 @@
+{
+  "name": "itmd-565-final",
+  "version": "1.0.0",
+  "description": "Stock market analyzer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITMD-562-Fall2018/app.git"
+  },
+  "author": "Jarron Bailey, Abigail Boyer, Gowtham Manivelan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITMD-562-Fall2018/app/issues"
+  },
+  "homepage": "https://github.com/ITMD-562-Fall2018/app#readme"
+}
