@@ -4,6 +4,7 @@
   "description": "Stock market analyzer",
   "main": "server.js",
   "scripts": {
+    "set-up": "npm install && cd ../client && npm install",
     "server": "npx nodemon server.js",
     "client": "npm start --prefix ../client",
     "dev": "npx concurrently \"npm run server\" \"npm run client\"",
